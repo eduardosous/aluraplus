@@ -193,7 +193,7 @@ body {
   }
 
   .container__descricao--texto {
-    padding: 0;
+    padding: 0 1rem;
   }
 
   .dispositivo__lista {
